@@ -60,7 +60,7 @@
     </dependencies>
 
     <build>
-        <finalName>springboot-girl</finalName>
+        <finalName>personal-demo</finalName>
         <plugins>
             <plugin>
                 <groupId>org.springframework.boot</groupId>
